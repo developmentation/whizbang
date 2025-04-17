@@ -44,7 +44,7 @@ export default {
         <header class="relative py-20 bg-gradient-to-r from-blue-600 to-teal-500 text-white overflow-hidden">
           <div class="absolute inset-0 bg-black opacity-20 dark:opacity-40"></div> <!-- Subtle overlay -->
           <div class="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 class="text-4xl sm:text-5xl font-extrabold mb-4 font-sans">The best dang chat app in the JavaScript World!</h2>
+            <h2 class="text-4xl sm:text-5xl font-extrabold mb-4 font-sans">The second best dang chat app in the JavaScript World!</h2>
             <p class="text-lg sm:text-xl mb-8 text-gray-100 font-light">
               A sleek starting point for real-time collaboration apps with multi-user sync and database persistence.
             </p>

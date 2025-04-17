@@ -1,7 +1,7 @@
 {
-  "name": "ai-starter-template",
-  "version": "0.0.19",
-  "description": "A starter template for AI-based Vue/Node applications",
+  "name": "whiz-bang-super-chat",
+  "version": "0.0.1",
+  "description": "Our super duper chat window",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "open source",
     "MIT"
   ],
-  "author": "The Government of Alberta",
+  "author": "J Alford",
   "license": "MIT",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
